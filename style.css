@@ -173,7 +173,7 @@ header .wrapper .menu-icon{
 }
   .home{
     min-height: 100vh;
-    background:url("home.jpg") no-repeat;
+    background: url("home.jpg") no-repeat;
     background-size:cover;
     background-position:center;
     background-attachment: fixed;
